@@ -6,8 +6,8 @@ AI can write the code. SliceOps governs the part that matters: **the decisions**
 
 ## Start here
 
-- 📐 **[spec](https://github.com/SliceOps/spec)** — the canonical framework: 12 principles, glossary, IP boundary, Layer B reference, governance. Docs CC BY 4.0 · code MIT. → **[v1.0.0](https://github.com/SliceOps/spec/releases/latest)**
-- 🧰 **[toolkit](https://github.com/SliceOps/toolkit)** — reference CI guardrails, consistency validators, calibration. MIT. → **[v0.1.0](https://github.com/SliceOps/toolkit/releases/latest)**
+- 📐 **[spec](https://github.com/SliceOps/spec)** — the canonical framework: 12 principles, glossary, IP boundary, Layer B reference, governance. Docs CC BY 4.0 · code MIT. → **[latest release](https://github.com/SliceOps/spec/releases/latest)**
+- 🧰 **[toolkit](https://github.com/SliceOps/toolkit)** — reference CI guardrails, consistency validators, calibration. MIT. → **[latest release](https://github.com/SliceOps/toolkit/releases/latest)**
 - 🌐 **[sliceops.org](https://sliceops.org)** — the framework site.
 
 ## What makes it different
